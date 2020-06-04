@@ -1,6 +1,5 @@
-[![Build Status](https://travis-ci.com/Robert29000/timp_lab_05.svg?branch=master)](https://travis-ci.com/Robert29000/timp_lab_05)
-[![Coverage Status](https://coveralls.io/repos/github/Robert29000/timp_lab_05/badge.svg?branch=master)](https://coveralls.io/github/Robert29000/timp_lab_05?branch=master)
-
+[![Build Status](https://travis-ci.org/avel0041/05hw.svg?branch=master)](https://travis-ci.org/avel0041/05hw)
+[![Coverage Status](https://coveralls.io/repos/github/avel0041/05hw/badge.svg)](https://coveralls.io/github/avel0041/05hw)
 ## Laboratory work V
 
 
